@@ -1,0 +1,15 @@
+{
+	"name": "adf-estagio-dev-westu2-001",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9eb522fc-2972-435f-8f39-ee750de0374c",
+		"tenantId": "7af44b4b-2f21-4415-8011-a80f68c19ca5"
+	}
+}
